@@ -1,0 +1,13 @@
+schedule - venue, sponsors, date & time, food sellers
+employees - field workers, refree, score keeper, camera, security, ticket checker
+coordinating with teams - need to know schedule in advance, initial registration
+viewers - anonymous guest login, check scores, check schedule, match results, possible live streams embed, check leaderboard, convinience (web based)
+management - schedule matches, teams selection, update scores (with unix timestamp)
+
+priority
+    convinience - in our last project was impractical since it could only be accessed from one pc which also had the database.
+    viewers - a convinient way to check the information relating to the tournament
+    coordinating with teams - registration, inform the team manager thorugh email
+    management - score management, scheduling matches
+
+Football is one of the most popular games in the world. In terms of popularity, it is as popular as cricket. Comparatively, it is more popular in Europe and Latin America. As the popularity grows in india, the desire to compete it is rising, but the skill to host and manage matches can't keep up. In this project, we decided to tackle that problem by utilizing the latest technologies to reduce the skill needed to manage the tournament.
