@@ -1,0 +1,28 @@
+@ARTICLE{7378522,
+  author={Li, Li and Chou, Wu and Zhou, Wei and Luo, Min},
+  journal={IEEE Transactions on Network and Service Management},
+  title={Design Patterns and Extensibility of REST API for Networking Applications},
+  year={2016},
+  volume={13},
+  number={1},
+  pages={154-167},
+  abstract={REST architectural style has become a prevalent choice for distributed resources, such as the northbound API of software-defined networking (SDN). As services often undergo frequent changes and updates, the corresponding REST APIs need to change and update accordingly. To allow REST APIs to change and evolve without breaking its clients, a REST API can be designed to facilitate hypertext-driven navigation and its related mechanisms to deal with structure changes in the API. This paper addresses the issues in hypertext-driven navigation in REST APIs from three aspects. First, we present REST Chart, a Petri-Net-based REST service description framework and language to design extensible REST APIs, and it is applied to cope with the rapid evolution of SDN northbound APIs. Second, we describe some important design patterns, such as backtracking and generator, within the REST Chart framework to navigate through large scale APIs in the RESTful architecture. Third, we present a client side differential cache mechanism to reduce the overhead of hypertext-driven navigation, addressing a major issue that affects the application of REST API. The proposed approach is applied to applications in SDN, which is integrated with a generalized SDN controller, SOX. The benefits of the proposed approach are verified in different conditions. Experimental results on SDN applications show that on average, the proposed cache mechanism reduces the overhead of using the hypertext-driven REST API by 66%, while fully maintaining the desired flexibility and extensibility of the REST API.},
+  keywords={},
+  doi={10.1109/TNSM.2016.2516946},
+  ISSN={1932-4537},
+  month={March},}
+
+  @INPROCEEDINGS{8901656,
+  author={Mufid, Mohammad Robihul and Basofi, Arif and Al Rasyid, M. Udin Harun and Rochimansyah, Indhi Farhandika and rokhim, Abdul},
+  booktitle={2019 International Electronics Symposium (IES)},
+  title={Design an MVC Model using Python for Flask Framework Development},
+  year={2019},
+  volume={},
+  number={},
+  pages={214-219},
+  abstract={The Model-View-Controller (MVC) framework has become the standard in modern software development, with the model layer, display layer, and controller layer making it easier and faster. The Flask is a framework that uses Python language with easy to understand code writing. But the Flask framework still doesn't use the MVC method, so files and codes are not regular. The purpose of this study was to design a MVC for a framework that uses the Python programming language. This system has a generator that can make MVC folder structure easily and quickly, this system is also equipped with the Bootstrap framework, and this system is open source. The results showed that the presence of MVC on the flask framework could make users easier in creating new projects and have faster fully load time.},
+  keywords={},
+  doi={10.1109/ELECSYM.2019.8901656},
+  ISSN={},
+  month={Sep.},}
+
