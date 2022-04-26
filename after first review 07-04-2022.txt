@@ -1,0 +1,12 @@
+AR football broadcasting
+    plugin for obs
+        adds the "AR" pop ups
+    flask
+        negotiator
+        adds to database
+    control unit
+        time stamp button -> add goal/foul -> select team, player &/ foul type -> show on screen when time comes
+
+    flask website front page
+        leaderboard
+        past matches
