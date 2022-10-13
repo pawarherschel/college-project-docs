@@ -1,0 +1,30 @@
+backend
+    bcryptjs
+        storing and retrieving passwords
+    cookie-parser
+        Parsing cookies
+    cors
+        Cross-Origin Resource Sharing
+    dotenv
+        load environment variables from `.env` file
+    express
+        node js web application framework that provides broad features for building web and mobile applications
+    mongoose
+        manipulates the documents of the collection of the MongoDB database
+    swagger-ui-express
+        generate API docs
+    yamljs
+        YAML parser and encoder
+frontend
+    react
+        component-based front-end library responsible for the view layer of the application
+    react-bootstrap
+        css styling library used for react
+    react-router-dom
+        routing pages properly
+    react-redux
+        used for building the user interface
+    axios
+        promise based HTTP client for the browser and Node. js
+MongoDB
+    Database for storing all the information
